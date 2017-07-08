@@ -1,0 +1,8 @@
+/Users/jaisina/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.deps.json
+/Users/jaisina/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.runtimeconfig.json
+/Users/jaisina/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.runtimeconfig.dev.json
+/Users/jaisina/workspace/csharp/exercises/sets/obj/Debug/netcoreapp1.1/sets.AssemblyInfo.cs
+/Users/jaisina/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.dll
+/Users/jaisina/workspace/csharp/exercises/sets/bin/Debug/netcoreapp1.1/sets.pdb
+/Users/jaisina/workspace/csharp/exercises/sets/obj/Debug/netcoreapp1.1/sets.dll
+/Users/jaisina/workspace/csharp/exercises/sets/obj/Debug/netcoreapp1.1/sets.pdb
